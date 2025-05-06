@@ -1,0 +1,19 @@
+# Ignore local development files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore dependency directories
+node_modules/
+vendor/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore dotenv/env files (if used for local development)
+.env
+
+# Ignore log files and temp files
+*.log
+*.tmp
