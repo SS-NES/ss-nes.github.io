@@ -7,13 +7,13 @@ slides:
   - title: Example of existing project with SS-NES implementation
     image: /assets/img/slider/slide1.jpg
     image_alt: "Code shown on a computer screen in an office"
-    text: >-
+    content: >-
       The SS-NES best practices are already being implemented in various projects, such as the NES project.
       This project serves as a prime example of how these practices can be effectively applied in real-world scenarios.
   - title: More about existing project with SS-NES implementation
     image: /assets/img/slider/slide2.jpg
     image_alt: "Code on a computer screen"
-    text: >-
+    content: >-
       Veniam, odio velit quis in exerci praesent nulla nibh at illum ea minim eum blandit vero
       erat nostrud consectetuer et iusto amet, nisl feugiat ad aliquip wisi delenit consequat.
       Euismod te sit tation diam ut dolor ut consequat, tincidunt lobortis zzril in hendrerit
