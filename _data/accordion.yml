@@ -6,12 +6,6 @@ title: How can I use best practices from SS-NES?
 items:
   - title: Guidance
     icon: /assets/img/icons/guidance.svg
-    summary: >-
-      In this page you will find sustainable software guidance tailored to the Natural Sciences & Engineering (NES) domain.
-      The guidance is relevant for software management and development.
-    button:
-      label: Learn more
-      url: /#guidance
     subtitle: Guidance on sustainable software for the NES domain
     content: >-
       A software management plan (SMP) aids in implementing best practices during software development and ensures the software remains accessible and reusable in both the short and longer term. It also contributes to the reproducibility of results and promotes collaborative work on open-source software for research. Moreover, an SMP encourages researchers to plan for the software’s long-term sustainability and community uptake of the software.
