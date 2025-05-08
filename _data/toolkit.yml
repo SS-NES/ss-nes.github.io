@@ -11,21 +11,21 @@ items:
       It is used with the docassemble framework: https://docassemble.org.
     button:
       label: View tool
-      url: /#tools/smp-decision-tree
+      url: /#toolkit/smp-decision-tree
   - title: SS-NES-lesson
     icon: /assets/img/icons/tools/ss-nes-lesson.svg
     summary: >-
       Training material of the software sustainability of the TDCC NES project.
     button:
       label: View tool
-      url: /#tools/ss-nes-lesson
+      url: /#toolkit/ss-nes-lesson
   - title: Code-auditor
     icon: /assets/img/icons/tools/code-auditor.svg
     summary: >-
       A package and command-line utility to audit code quality and compliance to the best practices.
     button:
       label: View tool
-      url: /#tools/code-auditor
+      url: /#toolkit/code-auditor
   - title: Meta-template
     icon: /assets/img/icons/tools/meta-template.svg
     summary: >-
@@ -35,7 +35,7 @@ items:
       organisation to customize software templates to their needs.
     button:
       label: View tool
-      url: /#tools/meta-template
+      url: /#toolkit/meta-template
   - title: python-template
     icon: /assets/img/icons/tools/python-template.svg
     summary: >-
@@ -45,4 +45,4 @@ items:
       including unit tests, documentation, etc.
     button:
       label: View tool
-      url: /#tools/python-template
+      url: /#toolkit/python-template
