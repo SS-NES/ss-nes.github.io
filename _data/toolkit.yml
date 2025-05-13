@@ -8,7 +8,7 @@ items:
     icon: /assets/img/icons/tools/smp-decision-tree.svg
     summary: >-
       This is a questionnaire package for a Software Management Plan (SMP).
-      It is used with the docassemble framework: https://docassemble.org.
+      It is used with the docassemble framework: [https://docassemble.org](https://docassemble.org).
     button:
       label: View tool
       url: /#toolkit/smp-decision-tree
