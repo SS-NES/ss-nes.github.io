@@ -11,7 +11,16 @@ items:
       A software management plan (SMP) aids in implementing best practices during software development and ensures the software remains accessible and reusable in both the short and longer term. It also contributes to the reproducibility of results and promotes collaborative work on open-source software for research. Moreover, an SMP encourages researchers to plan for the software’s long-term sustainability and community uptake of the software.
   - title: Tools
     icon: /assets/img/icons/tools.svg
+    subtitle: Tools to support sustainable software development
+    content: >-
+      Text
   - title: Integrating digital infrastructure for sustainable software
     icon: /assets/img/icons/integration.svg
+    subtitle: Integrating digital infrastructure for sustainable software
+    content: >-
+      Text
   - title: Learning resources
     icon: /assets/img/icons/resources.svg
+    subtitle: Learning resources for sustainable software development
+    content: >-
+      Text
