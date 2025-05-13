@@ -1,7 +1,7 @@
 PATH
   remote: ../jekyll-theme-ss-nes
   specs:
-    jekyll-theme-ss-nes (0.4.0)
+    jekyll-theme-ss-nes (0.5.0)
       jekyll (>= 3.5, < 5.0)
 
 GEM
