@@ -11,7 +11,7 @@ image: /assets/img/hero.jpg
 image_alt: "SS-NES logo"
 buttons:
   - label: Get Started
-    url: /#start
+    url: /#toolkit
   - label: Learn More
     url: /#learn
     class: secondary
