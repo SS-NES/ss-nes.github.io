@@ -1,0 +1,21 @@
+# (optional) Projects section data
+
+title: Projects
+# subtitle: This is an optional subtitle
+
+# The projects section is optional. If you want to use it, make sure the `items` list
+# is defined (in `_data/projects.yml` in your Jekyll site) and it contains items like
+# the example below.
+#
+# items:
+#  - title: Project 1
+#    description: >-
+#      This is a description of project 1.
+#    url: https://example.com/project1
+#    image: /assets/img/projects/project1.png
+#  - title: Project 2
+#    description: >-
+#      This is a description of project 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#    url: https://example.com/project1
+#    image: /assets/img/projects/project2.png
