@@ -30,6 +30,15 @@ This repository hosts a Jekyll-based website using a custom GitHub-hosted theme.
 ## Deployment
 This site is hosted on GitHub Pages. Changes pushed to the repository will automatically trigger a rebuild and deploy the updated site.
 
+## Local development
+To run the site locally with the custom theme, first clone [jekyll-theme-ss-nes](https://github.com/SS-NES/jekyll-theme-ss-nes) into the parent directory (`../jekyll-theme-ss-nes`). Then, use the following command to start the development server with the appropriate configuration:
+
+```sh
+JEKYLL_ENV=development bundle exec jekyll serve --config _config.development.yml
+```
+
+This ensures Jekyll loads the local theme and uses development settings for live preview.
+
 ## Resources
 - [Jekyll Documentation](https://jekyllrb.com/docs/)
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
