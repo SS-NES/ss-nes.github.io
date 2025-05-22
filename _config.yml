@@ -11,6 +11,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Build settings
 markdown: kramdown
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-theme: jekyll-theme-ss-nes
+# Use custom theme from GitHub repository
+remote_theme: SS-NES/jekyll-theme-ss-nes

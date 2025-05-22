@@ -1,0 +1,10 @@
+title: SS-NES landing page
+description: Local development configuration
+
+# Disable remote theme plugin for local development
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Use local theme for development
+theme: jekyll-theme-ss-nes
