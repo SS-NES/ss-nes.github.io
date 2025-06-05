@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SS-NES landing page
+message: GitHub page for ss-nes.github.io
+type: software
+authors:
+  - given-names: Carlos
+    family-names: Martinez-Ortiz
+    orcid: 'https://orcid.org/0000-0001-5565-7577'
+    email: c.martinez@esciencecenter.nl
+    affiliation: Netherlands eScience Center
+repository-code: 'https://github.com/SS-NES/ss-nes.github.io'
+url: 'https://ss-nes.github.io/'
+abstract: >+
+  This repository hosts a Jekyll-based website using a
+  custom theme for the"Best Practices for Sustainable
+  Software in Natural Science and Engineering" project.
+
+keywords:
+  - Sustainable Software
+  - Natural Science and Engineering
+  - TDCC-NES
