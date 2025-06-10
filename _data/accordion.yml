@@ -8,19 +8,63 @@ items:
     icon: /assets/img/icons/guidance.svg
     subtitle: Guidance on sustainable software for the NES domain
     content: >-
-      A software management plan (SMP) aids in implementing best practices during software development and ensures the software remains accessible and reusable in both the short and longer term. It also contributes to the reproducibility of results and promotes collaborative work on open-source software for research. Moreover, an SMP encourages researchers to plan for the software’s long-term sustainability and community uptake of the software.
+      A software management plan (SMP) aids in implementing best practices during 
+      software development and ensures the software remains accessible and reusable 
+      in both the short and longer term. It also contributes to the reproducibility of 
+      results and promotes collaborative work on open-source software for research. 
+      Moreover, an SMP encourages researchers to plan for the software’s long-term 
+      sustainability and community uptake of the software.
+      
+
+      We created a the [SMP decision tree](#toolkit-smp-decision-tree) to guide 
+      you through the process of creating an SMP.
   - title: Tools
     icon: /assets/img/icons/tools.svg
     subtitle: Tools to support sustainable software development
     content: >-
-      Text
+      Guidance for sustainable research development is crucial, but it is also important 
+      to provide means to make it practical and applicable during the whole development 
+      cycle. If such support is not readily available when the guidance is published, 
+      uptake by the community might be significantly delayed.
+
+
+      In this project, we developed [research software templates](#toolkit-meta-template) 
+      that implement the best practices recommended by the guidance and provide boilerplate 
+      code and assets to initiate the research software development, including unit tests, 
+      documentation, etc. This will allow the researchers to apply the guidance in a much 
+      quicker and practical way by using different languages (e.g. Python, R).
+
   - title: Integrating digital infrastructure for sustainable software
     icon: /assets/img/icons/integration.svg
     subtitle: Integrating digital infrastructure for sustainable software
     content: >-
-      Text
+      The use of digital infrastructure and services can contribute to enhancing software 
+      sustainability, encompassing aspects such as version control, licensing, citation, 
+      publication, and long-term preservation. We have integrated and improved existing 
+      digital services relevant to the NES domain that support several aspects of software 
+      sustainability.
+
+
+      The 4TU.ResearchData repository aids researchers of the science, engineering and 
+      design disciplines with long-term archiving of software. 4TU.ResearchData is the 
+      only certified repository in the Netherlands that provides support for sharing and 
+      long-term preservation (at least 15 years) of both research data and software and for 
+      disciplines from the entire NES domain. The Research Software Directory is a registry 
+      developed by the eScience Center that enables both research performing organizations 
+      and researchers to find, publish, cite, share, and measure the impact of research software.
+
+
+      We will write a blog summarising this integration.      
+
   - title: Learning resources
     icon: /assets/img/icons/resources.svg
     subtitle: Learning resources for sustainable software development
     content: >-
-      Text
+      We conducted a train-the-trainer workshops and walk-in sessions aimed at trainers, 
+      training coordinators and researchers within the NES domain and at LDCCs. Through these 
+      events we shared with participants our best practices for software 
+      sustainability in the NES domain.
+
+
+      Based on these activities we created [training materials](#toolkit-ss-nes-lesson) which 
+      can be used by the wider community.

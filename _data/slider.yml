@@ -1,24 +1,31 @@
 # Slider section data
 
-title: Why does software sustainability matter?
-# subtitle: This is an optional subtitle
+title: Software sustainability
+subtitle: What is it and why does it matter?
 
 slides:
-  - title: Example of existing project with SS-NES implementation
+  - title: What is software sustainability?
     image_url: /assets/img/slider/slide-example-1.jpg
     image_alt: "Code shown on a computer screen in an office"
     content: >-
-      The SS-NES best practices are already being implemented in various projects, such as the NES project.
-      This project serves as a prime example of how these practices can be effectively applied in real-world scenarios.
-  - title: More about existing project with SS-NES implementation
+      In  this project, we consider software sustainability as the collection of practices
+      used to ensure reusability and long-term viability of research software, 
+      as well as its impact on research.
+      These practices encompass software management, software quality, FAIR software, and 
+      software preservation.
+  - title: Why is software sustainability important?
     image_url: /assets/img/slider/slide-example-2.jpg
     image_alt: "Code on a computer screen"
     content: >-
-      Veniam, odio velit quis in exerci praesent nulla nibh at illum ea minim eum blandit vero
-      erat nostrud consectetuer et iusto amet, nisl feugiat ad aliquip wisi delenit consequat.
-      Euismod te sit tation diam ut dolor ut consequat, tincidunt lobortis zzril in hendrerit
-      nonummy accumsan elit, dolore dolore autem volutpat. augue adipiscing vel eu ipsum eros
-      qui facilisi. ullamcorper enim Duis esse feugait dolore suscipit et Lorem Ut facilisis sed
-      duis vulputate luptatum dolor nulla magna vel dignissim aliquam iriure commodo molestie ex laoreet.
-
-      Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut.
+      Research software, encompassing scripts, code, tools, and digital methodologies, 
+      is crucial to academic research, particularly in the Natural Sciences & Engineering 
+      (NES) domain. Despite the importance of Research software, attention for software sustainability
+      often remains limited.
+  - title: The SS-NES project
+    image_url: /assets/img/slider/slide-example-2.jpg
+    image_alt: "Code on a computer screen"
+    content: >-
+      This project addressed several aspects of software sustainability 
+      to actively support the research community within the NES domain. By providing 
+      domain-relevant guidelines, tools, infrastructure, and training, the project 
+      supported awareness and uptake of best practices during the entire software life cycle.
