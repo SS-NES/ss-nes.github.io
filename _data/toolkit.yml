@@ -8,24 +8,26 @@ items:
     icon: /assets/img/icons/tools/smp-decision-tree.svg
     summary: >-
       This is a questionnaire package for a Software Management Plan (SMP).
-      It is used with the docassemble framework: [https://docassemble.org](https://docassemble.org).
+
+      This is an [open source](https://github.com/SS-NES/docassemble-SMPDecisionTree) tool.
     button:
       label: View tool
-      url: /#toolkit-smp-decision-tree
+      url: https://smp.research.software/
   - title: SS-NES-lesson
     icon: /assets/img/icons/tools/ss-nes-lesson.svg
     summary: >-
-      Training material of the software sustainability of the TDCC NES project.
+      Training material of the software sustainability of the TDCC NES project. These materials are 
+      also available on [GitHub](https://github.com/SS-NES/SS-NES-lesson).
     button:
-      label: View tool
-      url: /#toolkit-ss-nes-lesson
+      label: View training materials
+      url: https://ss-nes.github.io/SS-NES-lesson/
   - title: Code-auditor
     icon: /assets/img/icons/tools/code-auditor.svg
     summary: >-
       A package and command-line utility to audit code quality and compliance to the best practices.
     button:
       label: View tool
-      url: /#toolkit-code-auditor
+      url: https://github.com/SS-NES/code-auditor
   - title: Meta-template
     icon: /assets/img/icons/tools/meta-template.svg
     summary: >-
@@ -35,7 +37,7 @@ items:
       organisation to customize software templates to their needs.
     button:
       label: View tool
-      url: /#toolkit-meta-template
+      url: https://github.com/SS-NES/meta-template
   - title: python-template
     icon: /assets/img/icons/tools/python-template.svg
     summary: >-
@@ -45,4 +47,4 @@ items:
       including unit tests, documentation, etc.
     button:
       label: View tool
-      url: /#toolkit-python-template
+      url: https://github.com/NLeSC/python-template/
