@@ -5,15 +5,15 @@ links1:
   title: Tools
   items:
     - label: SMP Decision Tree
-      url: /#tools/smp-decision-tree
+      url: /#toolkit-smp-decision-tree
     - label: SS-NES-lesson
-      url: /#tools/ss-nes-lesson
+      url: /#toolkit-ss-nes-lesson
     - label: Code-auditor
-      url: /#tools/code-auditor
+      url: /#toolkit-code-auditor
     - label: Meta-template
-      url: /#tools/meta-template
+      url: /#toolkit-meta-template
     - label: python-template
-      url: /#tools/python-template
+      url: /#toolkit-python-template
 
 # More links to be displayed in the footer
 links2:
