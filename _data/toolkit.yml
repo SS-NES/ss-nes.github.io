@@ -16,25 +16,24 @@ items:
   - title: SS-NES-lesson
     icon: /assets/img/icons/tools/ss-nes-lesson.svg
     summary: >-
-      Training material of the software sustainability of the TDCC NES project. These materials are 
+      Training material of the software sustainability of the TDCC NES project. These materials are
       also available on [GitHub](https://github.com/SS-NES/SS-NES-lesson).
     button:
       label: View training materials
       url: https://ss-nes.github.io/SS-NES-lesson/
-  - title: Code-auditor
+  - title: Code Auditor
     icon: /assets/img/icons/tools/code-auditor.svg
     summary: >-
-      A package and command-line utility to audit code quality and compliance to the best practices.
+      A package and command-line utility to audit code quality and compliance to the research
+      software development best practices.
     button:
       label: View tool
       url: https://github.com/SS-NES/code-auditor
-  - title: Meta-template
+  - title: Meta Template
     icon: /assets/img/icons/tools/meta-template.svg
     summary: >-
-      A toolkit to start software templates for research software and adopt best practices
-      on sustainable software for Natural and Engineering Sciences. It provides a way to align
-      best practices and reduce maintainance efforts across organisations, while allowing
-      organisation to customize software templates to their needs.
+      A framework to initiate and maintain tailored research software templates that align with best
+      practices and reduce maintainance efforts across organisations.
     button:
       label: View tool
       url: https://github.com/SS-NES/meta-template

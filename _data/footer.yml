@@ -8,9 +8,9 @@ links1:
       url: /#tools/smp-decision-tree
     - label: SS-NES-lesson
       url: /#tools/ss-nes-lesson
-    - label: Code-auditor
+    - label: Code Auditor
       url: /#tools/code-auditor
-    - label: Meta-template
+    - label: Meta Template
       url: /#tools/meta-template
     - label: python-template
       url: /#tools/python-template
